@@ -42,3 +42,6 @@ Data visualization: Power BI to present insights effectively
 ![YuliedPardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuliedpardo&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuliedpardo&langs_count=8)
+
+
+
