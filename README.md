@@ -8,7 +8,12 @@
 ### 👨‍💻 About Me :
 
 - 📫 How to reach me **yuliedpro@gmail.com**
-- ask me about Python, Sql, Power BI
+- 
+🔧 Habilidades clave:
+
+Languages and technologies: SQL, Python, Hadoop, Power BI, Spark, Docker.
+Data analysis: Machine Learning, data manipulation with advanced Excel.
+Data visualization: Power BI to present insights effectively
 
 
 <div align="left">
