@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📫 How to reach me **yuliedpro@gmail.com**
+- 📫 How to reach me **yuliedpro1993@gmail.com**
 - 
 🔧 Habilidades clave:
 
