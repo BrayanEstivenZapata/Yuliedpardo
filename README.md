@@ -1,5 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="200" />
+    <img src="(https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u)/giphy.gif" width="200" />
+
     <h1 align="center">Hi 👋, I'm Yulied Pardo</h1>
     <h3 align="center"> I'm passionate about data science with a solid and varied background. I just completed an intensive data science bootcamp where I gained skills in SQL, Python, Hadoop, Power BI, machine learning, Docker, Spark, and NoSQL. Additionally, I have extensive experience in data manipulation and analysis using advanced Excel. from Colombia.</h3>
 </div>
